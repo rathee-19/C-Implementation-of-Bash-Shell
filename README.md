@@ -2,6 +2,9 @@
 
 Welcome to the C Implementation of Bash Shell project! This project aims to recreate the basic functionalities of a bash shell using C. The primary goal is to gain a deeper understanding of how shell operations work and to handle various edge cases that arise in command-line interfaces.
 
+## Resources
+- [Insturctions](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1)
+
 ## Key Features
 
 ### 1. Display Information
